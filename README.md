@@ -4,7 +4,7 @@ A simple Flutter Login and Registration Application.
 
 ## About the Project
 
-DSaxroom is a beginner-level Flutter project developed as a practical exercise to understand Flutter user interface development, reusable widgets, form inputs, and screen navigation.
+DSaxroom App is a beginner-level Flutter project developed as a practical exercise to understand Flutter widgets, form inputs, and screen navigation.
 
 ## Features
 
@@ -15,7 +15,7 @@ DSaxroom is a beginner-level Flutter project developed as a practical exercise t
 - Email and password input fields
 - Password confirmation field
 
-## Technologies Used
+## Technologies Useds
 
 - Flutter
 - Dart
@@ -40,4 +40,4 @@ DSaxroom is a beginner-level Flutter project developed as a practical exercise t
 
 ## Project Purpose
 
-This project was created as a Flutter learning exercise to practise basic UI design, widgets, and navigation.
+This project was created as a Flutter learning exercise to practise basic mobile app development UI.
